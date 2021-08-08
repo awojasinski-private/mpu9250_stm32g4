@@ -1,0 +1,3 @@
+[submodule "eMPL_python"]
+	path = eMPL_python
+	url = https://github.com/awojasinski/eMPL_python.git
